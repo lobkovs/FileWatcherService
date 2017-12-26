@@ -1,0 +1,2 @@
+FileWatcherService.exe uninstall
+pause

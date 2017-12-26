@@ -1,0 +1,2 @@
+FileWatcherService.exe install
+pause

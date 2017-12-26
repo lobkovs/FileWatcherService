@@ -1,0 +1,18 @@
+<root name="simulation">
+    <section name="checking mn carriers">
+        <line name="traffic carriers updated"></line>
+        <line name="traffic carriers inserted"></line>
+    </section>
+    <section name="checking mn trunks">
+        <line name="traffic trunks updated"></line>
+        <line name="traffic trunks inserted"></line>
+    </section>
+    <section name="checking mg carriers">
+        <line name="traffic carriers updated"></line>
+        <line name="traffic carriers inserted"></line>
+    </section>
+    <section name="checking mg trunks">
+        <line name="traffic trunks updated"></line>
+        <line name="traffic trunks inserted"></line>
+    </section>
+</root>

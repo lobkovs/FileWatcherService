@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FileWatcherService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="watchDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\WORK\log\Incremental</Value>
+    </Setting>
+    <Setting Name="watchFilter" Type="System.String" Scope="User">
+      <Value Profile="(Default)">To123.log</Value>
+    </Setting>
+    <Setting Name="metricsFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Services\FileWatcherService\bin\Debug\metrics.xml</Value>
+    </Setting>
+    <Setting Name="zabbixSenderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\zabbix_agents\3.2.0\bin\win64\zabbix_sender.exe </Value>
+    </Setting>
+    <Setting Name="zabbixServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">localhost</Value>
+    </Setting>
+    <Setting Name="zabbixNetworkNode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LOCALHOST.PROCESSES</Value>
+    </Setting>
+    <Setting Name="zabbixEnableSend" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="regexpError" Type="System.String" Scope="User">
+      <Value Profile="(Default)">err(or)?</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
